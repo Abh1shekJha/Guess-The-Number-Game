@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="Reset">Reset</string>
+    <string name="str_down">Press_Arrow_Down</string>
+    <string name="str_up">Press Arrow Up</string>
+    <string name="str_question">Is your number %d?</string>
+    <string name="str_success">Your number is %d!</string>
+</resources>
